@@ -12,7 +12,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  
   "description": "",
+  "engines": {
+  "node": "18"
+},
   "dependencies": {
     "bcrypt": "^6.0.0",
     "connect-pg-simple": "^10.0.0",
